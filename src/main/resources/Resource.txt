@@ -1,0 +1,64 @@
+[ {
+  "id" : 1,
+  "name" : "Harry Potter",
+  "author" : "J.K Rowling",
+  "price" : 16.99,
+  "createBy" : "16/06/2023",
+  "lastModify" : "16/06/2023"
+}, {
+  "id" : 2,
+  "name" : "Iron Flame",
+  "author" : "The Empyrean",
+  "price" : 15.99,
+  "createBy" : "09/06/2023",
+  "lastModify" : "20/05/2023"
+}, {
+  "id" : 3,
+  "name" : "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+  "author" : "Tiny Changes",
+  "price" : 12.96,
+  "createBy" : "15/09/2023",
+  "lastModify" : "22/06/2023"
+}, {
+  "id" : 4,
+  "name" : "Outlive: The Science and Art of Longevity",
+  "author" : "Petter Attia",
+  "price" : 18.99,
+  "createBy" : "12/02/2023",
+  "lastModify" : "16/05/2023"
+}, {
+  "id" : 5,
+  "name" : "The Covenant of Water",
+  "author" : "Abraham Verghese",
+  "price" : 19.58,
+  "createBy" : "06/01/2023",
+  "lastModify" : "20/05/2023"
+}, {
+  "id" : 6,
+  "name" : "123123",
+  "author" : null,
+  "price" : 10.6,
+  "createBy" : "21/06/2023",
+  "lastModify" : "21/06/2023"
+}, {
+  "id" : 7,
+  "name" : "askdhfaksjdhfks",
+  "author" : null,
+  "price" : 10.6,
+  "createBy" : "21/06/2023",
+  "lastModify" : "21/06/2023"
+}, {
+  "id" : 8,
+  "name" : "askdhfaksjdhfks",
+  "author" : null,
+  "price" : 10.6,
+  "createBy" : "21/06/2023",
+  "lastModify" : "21/06/2023"
+}, {
+  "id" : 699,
+  "name" : "abc123123213d",
+  "author" : null,
+  "price" : 10.6,
+  "createBy" : "21/06/2023",
+  "lastModify" : "21/06/2023"
+} ]
