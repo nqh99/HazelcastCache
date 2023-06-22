@@ -20,4 +20,10 @@ public class BookModel implements Comparable<BookModel> {
     public int compareTo(BookModel o) {
         return Integer.compare(id, o.getId());
     }
+    @Override
+    public boolean equals(Object obj) {
+        if (!(obj instanceof BookModel))
+            return false;
+        return compareTo((BookModel) obj) == 0 ? true : false;
+    }
 }

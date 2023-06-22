@@ -35,30 +35,58 @@
   "lastModify" : "20/05/2023"
 }, {
   "id" : 6,
-  "name" : "123123",
-  "author" : null,
-  "price" : 10.6,
+  "name" : "Fourth Wing",
+  "author" : "Rebecca Yarros",
+  "price" : 19.68,
   "createBy" : "21/06/2023",
   "lastModify" : "21/06/2023"
 }, {
   "id" : 7,
-  "name" : "askdhfaksjdhfks",
-  "author" : null,
-  "price" : 10.6,
+  "name" : "Atomic Habits: An Easy & Proven Way to build Good Habits & Break Bad Ones",
+  "author" : "James Clear",
+  "price" : 12.96,
   "createBy" : "21/06/2023",
   "lastModify" : "21/06/2023"
 }, {
   "id" : 8,
-  "name" : "askdhfaksjdhfks",
-  "author" : null,
-  "price" : 10.6,
-  "createBy" : "21/06/2023",
-  "lastModify" : "21/06/2023"
+  "name" : "Happy Place",
+  "author" : "Emily Henry",
+  "price" : 15.49,
+  "createBy" : "15/12/2015",
+  "lastModify" : "09/09/2018"
 }, {
-  "id" : 699,
-  "name" : "abc123123213d",
-  "author" : null,
-  "price" : 10.6,
-  "createBy" : "21/06/2023",
-  "lastModify" : "21/06/2023"
+  "id" : 9,
+  "name" : "It Starts with Us: A Novel (2) (It Ends with Us)",
+  "author" : "Colleen Hoover",
+  "price" : 10.49,
+  "createBy" : "20/05/2022",
+  "lastModify" : "02/09/2022"
+}, {
+  "id" : 10,
+  "name" : "The In-Between: Unforgettable Encounters During Life's Final Moments",
+  "author" : "Harry J. K",
+  "price" : 20.48,
+  "createBy" : "20/05/2022",
+  "lastModify" : "02/06/2023"
+}, {
+  "id" : 11,
+  "name" : "The In-Between: Unforgettable Encounters During Life's Final Moments",
+  "author" : "Harry J. K",
+  "price" : 40.96,
+  "createBy" : "20/05/2022",
+  "lastModify" : "02/06/2023"
+}, {
+  "id" : 12,
+  "name" : "Verity",
+  "author" : "Culleen Hoover",
+  "price" : 10.49,
+  "createBy" : "15/05/2021",
+  "lastModify" : "12/03/2023"
+}, {
+  "id" : 13,
+  "name" : "Icebreaker: A Novel (The Maple Hills Series)",
+  "author" : "Taylor Jennifer",
+  "price" : 9.42,
+  "createBy" : "14/09/2022",
+  "lastModify" : "02/01/2023"
 } ]
